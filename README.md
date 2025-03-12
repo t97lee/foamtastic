@@ -7,6 +7,6 @@ Thomas Lee, Heidi Jiang, Calvin Huang, Vivian Su
 Supervised by Dr. Xianshe Feng
 
 
-[references+poster](references.pdf)
+# [click here for references + poster](references.pdf)
 
 ![group pic lol](h5.jpg)
